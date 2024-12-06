@@ -26,8 +26,3 @@ I'm a passionate software engineer with a strong foundation in both back-end and
 - Email: [datqquocnguyen@gmail.com](mailto:datqquocnguyen@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/dat-nguyen-quoc-b4b78a264/]([https://www.linkedin.com/in/dat-nguyen-quoc-b4b78a264/])
 
-## 😄 Pronouns:
-- He/Him
-
-## ⚡ Fun fact:
-- I love exploring new technologies and constantly challenging myself with new projects!
